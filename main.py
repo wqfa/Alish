@@ -8,7 +8,7 @@ def handle_start(message):
     balance=float(res['balance'])
     views=str(balance/0.0000001).split('.')[0]
     markup = telebot.types.InlineKeyboardMarkup()
-    markup.add(telebot.types.InlineKeyboardButton(text='Programer', url="https://t.me/WHI3PER"))
+    markup.add(telebot.types.InlineKeyboardButton(text='Programer', url="https://t.me/RedTheon"))
     bot.reply_to(message,f'''- TikTok Views Bot
 
 - Remain : {views} Views
