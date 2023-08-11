@@ -13,7 +13,7 @@ def handle_start(message):
 
 - Remain : {views} Views
 
-- By : @RedTheon
+- By : @u3050
 
 - Channel : @lll7I3 | @IIl7l2
 
